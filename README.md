@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-🔭 I'm an AWS Certified Cloud Practitioner with a 400+ hour software development certification yearning for a challenging position in Cloud Architecture / Development. I am scheduled for my AWS Solutions Architect - Associate exam in mid December 2021. I value sincerity from/with coworkers and simplicity in solutions design. I'll always be working towards learning and helping others reach their true potential. 🔭
+🔭 I'm a certified Salesforce Professional, with further certifications and experience in Azure AI and AWS Cloud offerings. 🔭
 
-🌱 I’m currently looking to collaborate on a 5G Edge Computing Project using AWS, Raspberry Pi, and soil sensors... if interested, feel free to email me at jamesapjobs @ gmail . com🌱
+🌱 Linkedin: https://www.linkedin.com/in/james-avila-post 🌱
      
 <!--
 **j9311/j9311** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
