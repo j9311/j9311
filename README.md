@@ -1,7 +1,3 @@
-### Hi there 👋
-
-🔭 I'm a certified Salesforce Professional, with further certifications and experience in Azure AI and AWS Cloud offerings. 🔭
-
 🌱 Linkedin: https://www.linkedin.com/in/james-avila-post 🌱
      
 <!--
